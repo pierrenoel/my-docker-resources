@@ -11,3 +11,4 @@ This is a simple php setup with a mysql database and phpmyadmin. (using Apache)
 
 [php-mysql-phpmyadmin](PHP_MYSQL_PHPMYADMIN)
 - Add a src folder to the php folder and add your php files there.
+- ```docker-compose up --build -d``` to start the containers
